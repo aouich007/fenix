@@ -1,0 +1,14 @@
+.vega-actions a {
+  margin-right: 5px;
+}
+html, body {
+  height: 100%;
+}
+html {
+  display: table;
+  margin: auto;
+}
+body {
+  display: table-cell;
+  vertical-align: middle;
+}
